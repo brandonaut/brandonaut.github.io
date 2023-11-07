@@ -1,9 +1,20 @@
 # brandonaut.github.io
 
-## Building
+## Setup
 
 ```pwsh
 poetry install
 poetry shell
+```
+
+## Building
+
+```pwsh
 mkdocs serve
+```
+
+## Publishing
+
+```pwsh
+mkdocs deploy
 ```
