@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "brandonaut-github-io"
+version = "0.1.0"
+description = ""
+authors = ["Brandon Huber <brandon@hubermx.com>"]
+readme = "README.md"
+packages = [{include = "brandonaut"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
