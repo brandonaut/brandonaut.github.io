@@ -6,6 +6,7 @@
 - [Conquer and Divide (B'Tselem)](https://conquer-and-divide.btselem.org/map-en.html) - An interactive map of the Israeli occupation.
 - [Why Evangelical Christians Love Israel (VICE)](https://www.youtube.com/watch?v=Fo77sTGpngQ)
 - [Hamas, the militant group that attacked Israel, explained (Vox)](https://www.vox.com/politics/2023/10/10/23911661/hamas-israel-war-gaza-palestine-explainer)
+- [The Occupation of Water (Amnesty International)](https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/)
   
 ## Current conditions
 
