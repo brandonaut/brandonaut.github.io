@@ -16,5 +16,5 @@ mkdocs serve
 ## Publishing
 
 ```pwsh
-mkdocs deploy
+mkdocs gh-deploy
 ```
