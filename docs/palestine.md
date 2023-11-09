@@ -11,7 +11,8 @@
 ## Current conditions
 
 - <https://www.ochaopt.org/> - UN Office for the Coordinated Humanitarian Affairs, Occupied Palestinian Territory
-  - [Infographic of the Gaza Strip (UN) (Sept 2023)](https://www.ochaopt.org/sites/default/files/Gaza_A0_2023.pdf)
+  - [Infographic of the Gaza Strip (OCHAOPT) (Sept 2023)](https://www.ochaopt.org/sites/default/files/Gaza_A0_2023.pdf)
+- [The economic costs of the Israeli occupation for the Palestinian people (UNCTAD)](https://unctad.org/publication/economic-costs-israeli-occupation-palestinian-people-impoverishment-gaza-under-blockade)
 - [B'Tselem](https://www.btselem.org)
 - [Interactive Encyclopedia of the Palestine Question](https://www.palquest.org)
 - [Palestine Central Bureau of Statistics](https://www.pcbs.gov.ps/default.aspx)
@@ -19,5 +20,5 @@
 ## Culture
 
 - [The Palestinian Museum Digital Archive](https://www.palarchive.org)
-- <https://hiddenpalestine.com/>
-- <https://www.tatreezandtea.com/>
+- [Hidden Palestine](https://hiddenpalestine.com/) - Showcases of Palestinian art and culture.
+- [Tatreez and Tea](https://www.instagram.com/tatreezandtea/) - Palestinian Dress Historian and Curator.
