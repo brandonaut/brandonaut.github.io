@@ -22,3 +22,4 @@
 - [The Palestinian Museum Digital Archive](https://www.palarchive.org)
 - [Hidden Palestine](https://hiddenpalestine.com/) - Showcases of Palestinian art and culture.
 - [Tatreez and Tea](https://www.instagram.com/tatreezandtea/) - Palestinian Dress Historian and Curator.
+- [thetatreezcircle](https://www.instagram.com/thetatreezcircle/)
