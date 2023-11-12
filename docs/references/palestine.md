@@ -3,6 +3,7 @@
 ## History
 
 - [What’s the Israel-Palestine conflict about? A simple guide (Al Jazeera)](https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide)
+- The Ezra Klein Show has a pair of great interviews on the Palestinian Question, one from a [Zionist Perspective](https://podcasts.apple.com/us/podcast/what-israelis-fear-the-world-does-not-understand/id1548604447?i=1000634362224) and one from a [Palestinian Perspective](https://podcasts.apple.com/us/podcast/an-intense-searching-conversation-with-amjad-iraqi/id1548604447?i=1000633979325).
 - [Conquer and Divide (B'Tselem)](https://conquer-and-divide.btselem.org/map-en.html) - An interactive map of the Israeli occupation.
 - [Why Evangelical Christians Love Israel (VICE)](https://www.youtube.com/watch?v=Fo77sTGpngQ)
 - [Hamas, the militant group that attacked Israel, explained (Vox)](https://www.vox.com/politics/2023/10/10/23911661/hamas-israel-war-gaza-palestine-explainer)
