@@ -2,4 +2,4 @@ site_name: HuberMx
 nav:
   - Home: index.md
   - References:
-      - Palestine: references/palestine.md
+      - Palestine: palestine.md
